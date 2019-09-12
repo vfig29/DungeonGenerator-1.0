@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.exe.config
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.exe
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.pdb
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.exe
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.pdb
+C:\Users\T-Gamer\source\repos\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.csprojAssemblyReference.cache
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.exe.config
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.exe
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\bin\Debug\DungeonGenerator.pdb
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.csprojAssemblyReference.cache
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.csproj.CoreCompileInputs.cache
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.exe
+E:\Downloads\Faculdade\BackupDungeon1.0\BACKUPCODIGOROGUELIKE\DungeonGenerator\DungeonGenerator\obj\Debug\DungeonGenerator.pdb
